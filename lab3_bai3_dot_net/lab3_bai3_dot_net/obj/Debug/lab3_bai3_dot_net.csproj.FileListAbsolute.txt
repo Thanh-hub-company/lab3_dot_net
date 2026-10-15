@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Hoc_dot_net\bia3_lab3_dotnet\lab3_bai3_dot_net\lab3_bai3_dot_net\obj\Debug\lab3_bai3_dot_net.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Hoc_dot_net\bia3_lab3_dotnet\lab3_bai3_dot_net\lab3_bai3_dot_net\obj\Debug\lab3_bai3_dot_net.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Hoc_dot_net\bia3_lab3_dotnet\lab3_bai3_dot_net\lab3_bai3_dot_net\bin\Debug\lab3_bai3_dot_net.exe.config
+C:\Users\Admin\Documents\Hoc_dot_net\bia3_lab3_dotnet\lab3_bai3_dot_net\lab3_bai3_dot_net\bin\Debug\lab3_bai3_dot_net.exe
+C:\Users\Admin\Documents\Hoc_dot_net\bia3_lab3_dotnet\lab3_bai3_dot_net\lab3_bai3_dot_net\bin\Debug\lab3_bai3_dot_net.pdb
+C:\Users\Admin\Documents\Hoc_dot_net\bia3_lab3_dotnet\lab3_bai3_dot_net\lab3_bai3_dot_net\obj\Debug\lab3_bai3_dot_net.exe
+C:\Users\Admin\Documents\Hoc_dot_net\bia3_lab3_dotnet\lab3_bai3_dot_net\lab3_bai3_dot_net\obj\Debug\lab3_bai3_dot_net.pdb
